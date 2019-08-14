@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyIntentAppKotlin</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_activity_data">Pindah Activity Dengan Data</string>
+    <string name="move_activity_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_activity_result">Pindah Actitivty untuk Result</string>
+    <string name="activity_result">Hasil dari Activity</string>
+    <string name="this_is_move_activity">This is Move Activity</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Masukkan nama Anda</string>
+    <string name="job">Pekerjaan</string>
+    <string name="job_hint">Masukkkan pekerjaan Anda</string>
+    <string name="data_set">Kirim Data</string>
+</resources>
